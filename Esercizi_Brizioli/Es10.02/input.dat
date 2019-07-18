@@ -1,0 +1,9 @@
+100
+5000
+1
+
+  ReadInput >> N_c;
+  ReadInput >> nstep;
+  ReadInput >> rect;
+	
+  

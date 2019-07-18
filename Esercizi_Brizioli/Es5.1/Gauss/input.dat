@@ -1,0 +1,14 @@
+0.5
+1000000
+1000
+1000
+1
+
+
+
+  ReadInput >> delta;
+  ReadInput >> throws;
+  ReadInput >> nblk;
+  ReadInout >> nstep;
+  ReadInput >> wave;
+
